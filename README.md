@@ -53,16 +53,16 @@ Access the app in your browser:
 http://127.0.0.1:5000/
 ```
 ## Screenshots
+Student Portal
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/e9e09466-351e-4bad-9712-2ac6dec193a9" />
 
-(Replace these with your actual screenshots from the reports/ folder.)
+Event Popularity
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/39597223-6d8e-4ef8-a6ae-ddf20bbca72f" />
 
-Dashboard
+Student Participation
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/78370362-d04a-406c-a7fd-d586ae753150" />
 
-Student List
 
-Event Registration Form
-
-Feedback Form
 
 ## Learning Outcomes
 
@@ -97,6 +97,6 @@ Email: padmajeetdoddannavar@gmail.com
 
 LinkedIn: (https://www.linkedin.com/in/padmajeet-doddannavar/)
 
-GitHub: Your GitHub required packages:
+GitHub: [Your GitHub required packages:](https://github.com/PadmajeetDoddannavar/college-event-manager/tree/main)
 
 

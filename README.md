@@ -80,7 +80,7 @@ Handle user input securely and implement basic validation
 
 It also gave me hands-on experience in structuring a web project and documenting it clearly.
 
-Possible Future Improvements
+## Possible Future Improvements
 
 Add authentication with roles for admin and student
 
@@ -92,11 +92,11 @@ Improve UI/UX with filters and additional interactive elements
 
 ## Author
 
-Your Name
-Email: your.email@example.com
+Padmajeet Doddannavar
+Email: padmajeetdoddannavar@gmail.com
 
-LinkedIn: Your LinkedIn
+LinkedIn: (https://www.linkedin.com/in/padmajeet-doddannavar/)
 
 GitHub: Your GitHub required packages:
 
-pip install
+
